@@ -27,7 +27,7 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
   Lab 1:
 
   #### PERSONAL PRACTICES/ACTIVITIES
-  Java: [ (Functional/Procedural Simple Billing ) ]
+  Java: [Functional/Procedural - Simple Billing System](Java%20Personal%20Folder/simpleCart.java)
   
   C:
 
