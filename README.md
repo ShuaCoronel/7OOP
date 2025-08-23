@@ -27,11 +27,16 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
   Lab 1:
 
   #### PERSONAL PRACTICES/ACTIVITIES
-  Java: [Functional/Procedural - Simple Billing System](Java%20Personal%20Folder/simpleCart.java)
+  Java: [Functional/Procedural - Simple Billing System](Java%20Personal%20Folder/simpleCart.java) <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Procedural/Functional - Grade Calculator](Java%20Personal%20Folder/GradeCalculator.java)
   
   C:
 
   ---
+### FUN FACTS ABOUT ME
+- <small>There's no fun thing about me, I felt like I am just a superflous person who only contributes to the carbon footprint in the world :skull_and_crossbones:<small>
+
+  
   
 
 
