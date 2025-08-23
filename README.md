@@ -26,8 +26,8 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
   ##### MIDTERMS:
   Lab 1:
 
-  #### PERSONAL PRACTICES
-  Java:
+  #### PERSONAL PRACTICES/ACTIVITIES
+  Java: [ (Functional/Procedural Simple Billing ) ]
   
   C:
 
