@@ -1,7 +1,7 @@
 # 7OOP
 ---
 
-<small>My pain and sufferings in subject OOP: It contains all the activities and projects I've done! :)<small>
+<small>My pain and sufferings in subject OOP: It contains all the activities and projects I've made! :)<small>
 
 ---
 #### ABOUT ME :hear_no_evil:
