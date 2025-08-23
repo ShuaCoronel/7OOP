@@ -1,3 +1,5 @@
+![Banner](Customizations/github-header-banner.png)
+
 # **7OOP**
 ---
 
