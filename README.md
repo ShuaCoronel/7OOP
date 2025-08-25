@@ -1,14 +1,16 @@
 ![Banner](Customizations/github-header-banner.png)
 
+
+
 # **7OOP**
 ---
 
-<small>My pain and sufferings in subject OOP: It contains all the activities and projects I've made! :)<small>
+<small>My pain and sufferings in subject OOP: It contains all the activities and projects I've made! :)</small>
 
 ---
 ### ABOUT ME :hear_no_evil:
-<small>My name is Joshua, I am not the brightest student and tend to be quite *pessimistic*, but I will struggle with all my might to earn my keep.<small>
-<small>I just.... lose hope sometimes! <small>
+<small>My name is Joshua, I am not the brightest student and tend to be quite *pessimistic*, but I will struggle with all my might to earn my keep.</small>
+<small>I just.... lose hope sometimes! </small>
 
 
 ***
@@ -36,7 +38,7 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
 
   ---
 ### FUN FACTS ABOUT ME
-- <small>There's no fun thing about me, I felt like I am just a superflous person who only contributes to the carbon footprint in the world :skull_and_crossbones:<small>
+- <small>There's no fun thing about me, I felt like I am just a superflous person who only contributes to the carbon footprint in the world :skull_and_crossbones:</small>
 
 
 
