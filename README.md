@@ -59,7 +59,7 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
 ### 📂 Activities  
 
 ##### 📌 Midterms  
-- Lab 1  : 
+- Lab 1  : [OOB Simple Hospital Patient Room System](Java%20Personal%20Folder/Hospital.java)
 
 #### 🎯 Personal Practices / Activities  
 **Java**  
