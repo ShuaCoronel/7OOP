@@ -30,7 +30,7 @@ I just... lose hope sometimes ✨
 <table style="border: 2px solid #00ff00; border-radius: 12px; background-color: #000000; padding: 15px; width: 100%;">
   <tr>
     <td width="160" align="center">
-      <img src="https://avatars.githubusercontent.com/u/227346696?v=4" width="150" style="border-radius: 50%; border: 2px solid #00ff00;" />
+      <img src="Customizations/Pfp at CLab.JPG" width="150" style="border-radius: 50%; border: 2px solid #00ff00;" />
     </td>
     <td style="color: #00ff00; font-family: monospace; font-size: 16px; padding-left: 20px;">
       <h3>Hi, I'm Joshua 👋</h3>
