@@ -14,12 +14,8 @@ It contains all the activities and projects I've made! :)
 + Mission: Survive OOP
 - Threat: Deadlines approaching
 ```
-
-
 ---
 ## 🎭 **ABOUT ME** :hear_no_evil:
----
-
 ![role](https://img.shields.io/badge/🎓_Role-Student-2ecc71?style=for-the-badge&logo=github)  
 ![mood](https://img.shields.io/badge/😶‍🌫️_Mood-Pessimistic-e74c3c?style=for-the-badge)  
 ![struggle](https://img.shields.io/badge/⚡_Struggle-Ongoing-f1c40f?style=for-the-badge)  
@@ -56,16 +52,14 @@ I just... lose hope sometimes ✨
 we didn't know that the dead ones, are the lucky ones! :black_heart:
 
 ----
-
 ### Languages I’ve Used
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ---
-
 ### 📂 Activities  
-#### 📌 Midterms  
-- Lab 1  
+
+##### 📌 Midterms  
+- Lab 1  : 
 
 #### 🎯 Personal Practices / Activities  
 **Java**  
@@ -73,33 +67,27 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
 - [Procedural/Functional – Grade Calculator](Java%20Personal%20Folder/GradeCalculator.java)  
 
 **C**  
-- *(Coming soon...)*  
-
+- *(Coming soon...)*
+  
   ---
 ### ✨ Fun Facts About Me
 > 💀 *There's nothing really fun about me... I sometimes feel like I’m just a superfluous person adding to the carbon footprint of the world.*
 
-
 ---
-
 ### 🛠️ Skills  
-
 **Technical**  
-- 🖥️ C, Java  
-- 📚 Data Structures (Arrays, Linked List, Stacks)  
-- ⚡ Algorithms (Linear, Binary, Divide & Conquer)  
-- 📊 Microsoft Word, Excel, PowerPoint  
+- 🖥️ Familiarity with C, Java  
+- 📚 Understanding of Data Structures (Arrays, Linked List, Stacks)  
+- ⚡ Knowledge of Algorithms (Linear, Binary, Divide & Conquer)  
+- 📊 Comfortable using Microsoft Word, Excel, & PowerPoint  
 
 **Soft**  
 - 🤝 Teamwork & Collaboration  
 - 🗣️ Communication  
 - 🕊️ Conflict Resolution  
 - 🌱 Humility  
-
 ---
-
 ### CONNECT WITH ME
-
 <a href="mailto:shuacoronel@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail icon"/>
 </a>
