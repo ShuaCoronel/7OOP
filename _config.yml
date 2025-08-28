@@ -1,8 +1,8 @@
-remote_theme: mmistakes/minimal-mistakes@3.4.0
+title: 7OOP
+description: JoshuaCoronelC204
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
-title: "7OOP"
-description: "A doodle, sleek, black aesthetic theme for my projects"
+markdown: kramdown
+
