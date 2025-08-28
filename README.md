@@ -9,6 +9,8 @@
 <small>
 A collection of my coding projects, experiments, and a dash of existential dread.  
 It contains all the activities and projects I've made! :) 
+
+ A repository for subject OOP (Object Oriented Programming)
 </small>
 
 ```diff
