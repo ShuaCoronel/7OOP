@@ -28,7 +28,7 @@ My name is Joshua
 I am not the brightest student and tend to be quite pessimistic
 But I will struggle with all my might to earn my keep
 I just... lose hope sometimes ✨
-  
+ 
 </div>
 
 <table style="border-radius: 12px !important; background-color: transparent !important; padding: 15px !important; width: 100% !important;">
@@ -97,19 +97,6 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
 <a href="https://facebook.com/your.ShuaChickenAsado" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="Facebook"/>
 </a>
-
-
-
-
-
-
-
-
-
-
-  
-  
-
 
 
 
