@@ -22,20 +22,20 @@ It contains all the activities and projects I've made! :)
 
 
 
-<div style="background-color:#f0f0f0; padding:15px; border-radius:10px; font-family:monospace; color:#000000; border: 1px solid #ccc;">
-My name is Joshua  
-I am not the brightest student and tend to be quite pessimistic  
-But I will struggle with all my might to earn my keep  
+<div style="background-color:#f0f0f0 !important; padding:15px !important; border-radius:10px !important; font-family:monospace !important; color:#000000 !important; border: 1px solid #ccc !important;">
+My name is Joshua
+I am not the brightest student and tend to be quite pessimistic
+But I will struggle with all my might to earn my keep
 I just... lose hope sometimes ✨
   
 </div>
 
-<table style="border-radius: 12px; background-color: transparent; padding: 15px; width: 100%;">
+<table style="border-radius: 12px !important; background-color: transparent !important; padding: 15px !important; width: 100% !important;">
   <tr>
     <td width="160" align="center">
       <img src="Customizations/Pfp at CLab.JPG" width="150" style="border-radius: 50%;" />
     </td>
-    <td style="color: #000000; font-family: monospace; font-size: 16px; padding-left: 20px;">
+    <td style="color: #000000 !important; font-family: monospace !important; font-size: 16px !important; padding-left: 20px !important;">
       <h3>Hi, I'm Joshua 👋</h3>
       <ul>
         <li>🌱 Learning OOP in Java & C</li>
