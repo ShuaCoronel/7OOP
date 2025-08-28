@@ -64,7 +64,8 @@ I just... lose hope sometimes ✨
 ### 🧠 WHAT I BELIEVE IN 
 - "The world is unfair, and effort has no value."
 - "Be great in act as you have in thought."
-- *"The moment of the clouds and the rain is as near to heaven as they can get."* <br> we didn't know that the dead ones, are the lucky ones! :black_heart:
+- *"The moment of the clouds and the rain is as near to heaven as they can get."*
+ <br> we didn't know that the dead ones, are the lucky ones! :black_heart: <br>
 ----
 ### Languages I’ve Used
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
