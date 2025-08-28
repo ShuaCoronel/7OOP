@@ -18,7 +18,7 @@ It contains all the activities and projects I've made! :)
 - Threat: Deadlines approaching
 ```
 ---
-## 🎭 **ABOUT ME** :hear_no_evil:
+## 🎭 **ABOUT ME** 
 ![role](https://img.shields.io/badge/🎓_Role-Student-2ecc71?style=for-the-badge&logo=github)  
 ![mood](https://img.shields.io/badge/😶‍🌫️_Mood-Pessimistic-e74c3c?style=for-the-badge)  
 ![struggle](https://img.shields.io/badge/⚡_Struggle-Ongoing-f1c40f?style=for-the-badge)  
