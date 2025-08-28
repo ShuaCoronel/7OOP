@@ -1,3 +1,4 @@
 remote_theme: wbadart/jekyll-theme-dark-minimal
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
