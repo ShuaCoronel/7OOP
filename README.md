@@ -64,25 +64,21 @@ I just... lose hope sometimes ✨
 ### 🧠 WHAT I BELIEVE IN 
 - "The world is unfair, and effort has no value."
 - "Be great in act as you have in thought."
-- *"The moment of the clouds and the rain is as near to heaven as they can get."*
-
-we didn't know that the dead ones, are the lucky ones! :black_heart:
-
+- *"The moment of the clouds and the rain is as near to heaven as they can get."* <br> we didn't know that the dead ones, are the lucky ones! :black_heart:
 ----
 ### Languages I’ve Used
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
 ---
-### 📂 Activities  
-
-##### 📌 Midterms  
+### 📂 Activities  <br>
+📌 **Midterms**  
 - Lab 1  : [OOB Simple Hospital Patient Room System](Java%20Personal%20Folder/Hospital.java)
 
-#### 🎯 Personal Practices / Activities  
-**Java**  
+🎯 **Personal Practices / Activities**  <br>
+🟢  *Java*
 - [Functional/Procedural – Simple Billing System](Java%20Personal%20Folder/simpleCart.java)  
 - [Procedural/Functional – Grade Calculator](Java%20Personal%20Folder/GradeCalculator.java)  
 
-**C**  
+🟢  *C*  
 - *(Coming soon...)*
   
   ---
@@ -91,13 +87,13 @@ we didn't know that the dead ones, are the lucky ones! :black_heart:
 
 ---
 ### 🛠️ Skills  
-**Technical**  
+🔵 **Technical**  
 - 🖥️ Familiarity with C, Java  
 - 📚 Understanding of Data Structures (Arrays, Linked List, Stacks)  
 - ⚡ Knowledge of Algorithms (Linear, Binary, Divide & Conquer)  
-- 📊 Comfortable using Microsoft Word, Excel, & PowerPoint  
+- 📊 Comfortable using Microsoft Word, Excel, & PowerPoint  <br>
 
-**Soft**  
+🔵 **Soft**  
 - 🤝 Teamwork & Collaboration  
 - 🗣️ Communication  
 - 🕊️ Conflict Resolution  
