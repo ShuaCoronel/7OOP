@@ -1,1 +1,4 @@
-theme: jekyll-theme-primer
+remote_theme: gulnoor/jekyll-theme-doodle
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
