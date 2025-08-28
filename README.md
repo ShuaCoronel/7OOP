@@ -8,7 +8,7 @@
 
 <small>
 My pain and sufferings in subject OOP:  
-It contains all the activities and projects I've made! :)
+It contains all the activities and projects I've made! :) A collection of my coding experiments, and a dash of existential dread.
 </small>
 
 ```diff
