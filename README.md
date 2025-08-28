@@ -51,11 +51,16 @@ I just... lose hope sometimes ✨
 
 ## 🎧 Spotify Playing
 
-[![Shoot for the Moon](https://img.shields.io/badge/Shoot%20for%20the%20Moon-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![Random Music](https://img.shields.io/badge/Random-Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![Eh?](https://img.shields.io/badge/Eh%3F-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE)
+[![Shoot for the Moon](https://img.shields.io/badge/Shoot%20for%20the%20Moon-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0eufhXK7WPSiiwPcaz3Jq7?si=839465c918394657)
+[![Random Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)
+[![Eh?](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q)
+[![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 ---
 
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&redirect=true)
+| 🎧 Now Playing | 📊 GitHub Stats |
+| -------------- | --------------- |
+| [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/31irnz42nxwpsuoi6wbmfkfx4uba) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuaCoronel&show_icons=true&theme=default) |
 
 ***
 ### 🧠 WHAT I BELIEVE IN 
