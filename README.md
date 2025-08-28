@@ -49,6 +49,14 @@ I just... lose hope sometimes ✨
   </tr>
 </table>
 
+## 🎧 Spotify Playing
+
+[![Shoot for the Moon](https://img.shields.io/badge/Shoot%20for%20the%20Moon-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![Random Music](https://img.shields.io/badge/Random-Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![Eh?](https://img.shields.io/badge/Eh%3F-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](YOUR_SPOTIFY_PLAYLIST_LINK_HERE)
+
+---
+
+[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&redirect=true)
+
 ***
 ### 🧠 WHAT I BELIEVE IN 
 - "The world is unfair, and effort has no value."
