@@ -26,8 +26,8 @@ It contains all the activities and projects I've made! :)
 
 <div style="background-color:#f0f0f0 !important; padding:15px !important; border-radius:10px !important; font-family:monospace !important; color:#000000 !important; border: 1px solid #ccc !important;">
 My name is Joshua
-I am not the brightest student and tend to be quite pessimistic
-But I will struggle with all my might to earn my keep
+I am not the brightest student and tend to be quite pessimistic,
+but I will struggle with all my might to earn my keep.
 I just... lose hope sometimes ✨
  
 </div>
