@@ -20,19 +20,22 @@ It contains all the activities and projects I've made! :)
 ![mood](https://img.shields.io/badge/😶‍🌫️_Mood-Pessimistic-e74c3c?style=for-the-badge)  
 ![struggle](https://img.shields.io/badge/⚡_Struggle-Ongoing-f1c40f?style=for-the-badge)  
 
-<div style="background-color:#000000; padding:15px; border-radius:10px; font-family:monospace; color:#00ff00;">
 
-My name is Joshua
-I am not the brightest student and tend to be quite pessimistic
-But I will struggle with all my might to earn my keep
+
+<div style="background-color:#000000; padding:15px; border-radius:10px; font-family:monospace; color:#ffffff;">
+My name is Joshua  
+I am not the brightest student and tend to be quite pessimistic  
+But I will struggle with all my might to earn my keep  
 I just... lose hope sometimes ✨
+  
+</div>
 
 <table style="border: 2px solid #00ff00; border-radius: 12px; background-color: #000000; padding: 15px; width: 100%;">
   <tr>
     <td width="160" align="center">
       <img src="Customizations/Pfp at CLab.JPG" width="150" style="border-radius: 50%; border: 2px solid #00ff00;" />
     </td>
-    <td style="color: #00ff00; font-family: monospace; font-size: 16px; padding-left: 20px;">
+    <td style="font-family: monospace; font-size: 16px; padding-left: 20px; color: inherit;">
       <h3>Hi, I'm Joshua 👋</h3>
       <ul>
         <li>🌱 Learning OOP in Java & C</li>
