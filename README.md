@@ -7,8 +7,8 @@
 ![emotion](https://img.shields.io/badge/pain-⚠️_extreme-red)
 
 <small>
-My pain and sufferings in subject OOP:  
-It contains all the activities and projects I've made! :) A collection of my coding experiments, and a dash of existential dread.
+A collection of my coding projects, experiments, and a dash of existential dread.  
+It contains all the activities and projects I've made! :) 
 </small>
 
 ```diff
