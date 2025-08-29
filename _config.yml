@@ -11,3 +11,6 @@ remote_theme: pages-themes/primer@v0.6.0
 
 sass:
   style: compressed
+
+include:
+  - _includes/head-custom.html
