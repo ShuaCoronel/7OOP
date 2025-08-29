@@ -1,10 +1,11 @@
 title: 7OOP
-description: "JoshuaCoronelC204 - My pain and sufferings in subject OOP: It contains all the activities and projects I’ve done! :)"
+description: "JoshuaCoronelC204 - It contains all the activities and projects I’ve done! :)"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 markdown: kramdown
 
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: "jeffreytse/jekyll-theme-yat"
