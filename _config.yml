@@ -4,6 +4,7 @@ description: "JoshuaCoronelC204 - A collection of my coding projects, experiment
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-readme-index
 
 markdown: kramdown
 
