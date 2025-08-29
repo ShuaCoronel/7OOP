@@ -1,11 +1,10 @@
 title: 7OOP
-description: "JoshuaCoronelC204 - It contains all the activities and projects I’ve done! :)"
+description: "JoshuaCoronelC204 - A collection of my coding projects, experiments, and a dash of existential dread."
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 markdown: kramdown
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: pages-themes/primer@v0.6.0
