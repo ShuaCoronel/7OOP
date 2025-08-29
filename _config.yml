@@ -4,8 +4,7 @@ description: "JoshuaCoronelC204 - A collection of my coding projects, experiment
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme # This plugin is required for remote themes to work
 
 markdown: kramdown
 
-remote_theme: "yaoyao-liu/minimal-light"
+remote_theme: pages-themes/primer@v0.6.0
