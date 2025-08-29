@@ -16,34 +16,20 @@ a:hover {
   color: #1f6feb !important;
 }
 
-svg {
-  background: transparent !important;
-  fill: currentColor !important;
-}
-
-header,
-footer,
-main,
-.page,
-.Box,
-.border,
-.bg-white,
-.bg-gray-light,
-.markdown-body,
+.Box, 
+.Box-header, 
+.markdown-body, 
 .markdown-body > * {
-  background-color: transparent !important;
+  background-color: #121212 !important;
   border-color: #333 !important;
   color: #f8f8f8 !important;
 }
 
-code, pre, .highlight {
-  background-color: #111 !important;
+pre, code, .highlight {
+  background-color: #222 !important;
   color: #f8f8f8 !important;
-  border: none !important;
-}
-
-.highlight {
-  background-color: #111 !important;
   border-radius: 4px !important;
+  border: 1px solid #444 !important;
 }
 
+svg, s
