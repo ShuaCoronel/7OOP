@@ -15,3 +15,20 @@ a {
 a:hover {
   color: #1f6feb;
 }
+
+svg {
+  background: transparent;
+  fill: currentColor;
+}
+
+header,
+footer,
+main,
+.page,
+.Box,
+.border,
+.bg-white,
+.bg-gray-light {
+  background-color: transparent !important;
+  border-color: #333 !important;
+}
