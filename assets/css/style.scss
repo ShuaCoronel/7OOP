@@ -4,21 +4,21 @@
 @import "primer";
 
 body {
-  background-color: #000;
-  color: #f8f8f8;
+  background-color: #000 !important;
+  color: #f8f8f8 !important;
 }
 
 a {
-  color: #58a6ff;
+  color: #58a6ff !important;
 }
 
 a:hover {
-  color: #1f6feb;
+  color: #1f6feb !important;
 }
 
 svg {
-  background: transparent;
-  fill: currentColor;
+  background: transparent !important;
+  fill: currentColor !important;
 }
 
 header,
@@ -28,7 +28,22 @@ main,
 .Box,
 .border,
 .bg-white,
-.bg-gray-light {
+.bg-gray-light,
+.markdown-body,
+.markdown-body > * {
   background-color: transparent !important;
   border-color: #333 !important;
+  color: #f8f8f8 !important;
 }
+
+code, pre, .highlight {
+  background-color: #111 !important;
+  color: #f8f8f8 !important;
+  border: none !important;
+}
+
+.highlight {
+  background-color: #111 !important;
+  border-radius: 4px !important;
+}
+
