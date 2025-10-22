@@ -57,7 +57,8 @@ I just... lose hope sometimes ✨
 
 | 🎧 Now Playing | 📊 GitHub Stats |
 | -------------- | --------------- |
-| <a href="https://open.spotify.com/user/31irnz42nxwpsuoi6wbmfkfx4uba" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="300"/></a> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuaCoronel&show_icons=true&theme=default) |
+| <a href="https://open.spotify.com/user/31irnz42nxwpsuoi6wbmfkfx4uba" target="_blank"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31irnz42nxwpsuoi6wbmfkfx4uba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150"/></a> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuaCoronel&show_icons=true&theme=default) |
+
 
 ***
 ### 🧠 WHAT I BELIEVE IN 
@@ -99,7 +100,7 @@ I just... lose hope sometimes ✨
 - *(Coming soon...)*
 
 </details>  
-  ---
+
 ### ✨ Fun Facts About Me
 > 💀 *There's nothing really fun about me... I sometimes feel like I’m just a superfluous person adding to the carbon footprint of the world.*
 
