@@ -1,0 +1,12 @@
+Midterm Lab Task 2
+Using Functions
+
+Problem 1
+Create an n x n Multiplication Table using nested for loop, user must enter number of rows and columns
+
+Problem 2
+Create a bank program that will allow the user to perform the following function
+ -SHOW BALANCE
+ -DEPOSIT
+ -WITHDRAW
+ -EXIT
