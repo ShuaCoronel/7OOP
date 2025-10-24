@@ -74,7 +74,7 @@ I just... lose hope sometimes ✨
 <details>
   <summary>📌<b> Midterms</b></summary>
 
-- Paired Task Lab 1  : [OOP Simple Hospital Patient Room System](Java%20Personal%20Folder/Hospital.java)
+- Paired Task Lab 1  : [OOP Simple Hospital Patient Room System](Java%20Personal%20Folder/Paired%20Task%20Lab%201/src)
 - Lab 1  : [Escape Sequence, Place Holder, and User Input](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%201%20-%20Escape%20Sequence)
 - Lab 2  : [Loops and Function](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%202%20-%20Loops%20and%20Function/)  
 - Lab 3  : [Python List Collections](OOP%20LAB%20TASKS/Midterm%20Lab%20Task%203%20-%20Python%20List%20Collections)  
