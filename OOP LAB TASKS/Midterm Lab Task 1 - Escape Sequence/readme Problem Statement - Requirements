@@ -1,0 +1,37 @@
+Midterm Lab Task 1.
+
+Problem 1. Use Appropriate Escape Sequence( \n, \t \b \ ..etc)
+for the problem below
+Data base record
+name: Juan Dela Cruz
+Email: juandelacruz@cca.edu.ph
+University: CCA
+
+Problem 2. Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f
+etc… for this task
+
+Dear Dianne, I hope this email finds you well
+I want to reach out and say hello.
+I hope you are doing well and enjoying your day....
+It's been a while since we last spoke,and I wanted to catch up with you
+lets plan to catch up soon and have a great time together!
+
+Sender: Dianne Camille
+Version: 1
+Discount: 17
+Status: Single
+Code: ILY
+Location: Hacienda Royale
+Age: 26
+Company: CCA
+
+Problem 3. Book Reservation; Accept User Input
+Enter Book Title:
+Enter Author:
+Enter Year of Publication:
+Library:
+Return Date:
+
+Problem 4. Day Identifier
+Write a program that takes an input from 1-7 and print the corresponding day
+if input is 7, print"Sunday"
