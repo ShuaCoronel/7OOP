@@ -125,9 +125,10 @@ I just... lose hope sometimes ✨
 <a href="mailto:shuacoronel@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" height="30" alt="Gmail icon"/>
 </a>
-<a href="https://facebook.com/your.ShuaChickenAsado" target="_blank">
+<a href="https://www.facebook.com/ShuaChickenAsado" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" alt="Facebook"/>
 </a>
+
 
 
 
