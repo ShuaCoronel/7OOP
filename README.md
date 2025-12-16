@@ -89,7 +89,7 @@ I just... lose hope sometimes ✨
   <summary>📌<b> Finals</b></summary>
 
 - Lab 1  : [Encapsulation - A Car That Works](OOP%20LAB%20TASKS/Finals%20Lab%20Task%201.%20Encapsulation-%20A%20Car%20That%20Works)
-- Lab 2  : [Encapsulation - A Car That Works](OOP%20LAB%20TASKS/Finals%20Lab%20Task%201.%20Encapsulation-%20A%20Car%20That%20Works)
+- Lab 2  : [Encapsulation - Inheritance](OOP%20LAB%20TASKS/Finals%20Task%202.%20Inheritance)
 
 </details>
 
